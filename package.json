@@ -1,0 +1,14 @@
+{
+  "name": "adeola-assessment",
+  "version": "1.0.0",
+  "description": "ALADEGOROYE ADEOLA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ALADEGOROYE ADEOLA",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  }
+}
